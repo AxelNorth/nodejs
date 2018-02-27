@@ -1,6 +1,6 @@
 {
   "name": "nodejs-trajanka",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "modejs repo",
   "main": "index.js",
   "scripts": {
